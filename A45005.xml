@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Humble petition of many inhabitants in and about the city of London presented to the Parliament by Mr. Sam. Moyer and others, May 12, 1659 : together with the answer of the Parliament thereunto.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45005</idno>
+            <idno type="STC">Wing H3471</idno>
+            <idno type="STC">ESTC R15367</idno>
+            <idno type="EEBO-CITATION">12431089</idno>
+            <idno type="OCLC">ocm 12431089</idno>
+            <idno type="VID">61955</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45005)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61955)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 279:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Humble petition of many inhabitants in and about the city of London presented to the Parliament by Mr. Sam. Moyer and others, May 12, 1659 : together with the answer of the Parliament thereunto.</title>
+                  <author>Moyer, Samuel.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Brewster &amp; Livewell Chapman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Urging that the Commonwealth's administrative and military forces be purged of disloyal elements.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61955:1"/>
+            <pb facs="tcp:61955:1"/>
+            <p>THE Humble Petition OF MANY INHABITANTS In and about the City of LONDON.</p>
+            <p>Preſented to the Parliament by <hi>Mr. SAM. MOYER</hi> and others, <hi>May</hi> 12. 1659.</p>
+            <p>Together with the Anſwer of the Parliament thereunto.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Brewſter</hi> &amp; <hi>Livewell Chapman,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:61955:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:61955:2"/>
+            <head>TO THE PARLIAMENT OF THE COMMON-WEALTH OF <hi>ENGLAND.</hi>
+            </head>
+            <head type="sub">The humble Petition of many Inhabitants in and about the City of <hi>London.</hi>
+            </head>
+            <opener>Humbly ſheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat whereas it hath pleaſed the moſt wiſe Orderer and Diſpoſer of all things, to put you once more into the exerciſe of that Supream Truſt, wherein the King of Na<g ref="char:EOLhyphen"/>tions ſome years ſince ſuffered you to be interrupted, as a righteous check and chaſtiſement to you and us, for our unthankfulneſs, for the Great Sal<g ref="char:EOLhyphen"/>vations wrought for us, and unfaithfulneſs in a vigo<g ref="char:EOLhyphen"/>rous
+<pb n="2" facs="tcp:61955:3"/>improvement of the opportunities thereby given, to bring to maturity and perfection the ſure founda<g ref="char:EOLhyphen"/>tion of a Common-weal in matters religious and ci<g ref="char:EOLhyphen"/>vil, then happily laid and declared for, and ſignally owned by the Lord of Hoſts in the days of Appeals in the high places of the Field; which ſtroke from the Lord, with its ſad conſequences and effects, we deſire may be never forgotten by you or us. We judge it our duty, as to admire the Wiſdom, Power, and Goodneſs of God therein, and heartily bleſs his Name for hear<g ref="char:EOLhyphen"/>ing, and in his own time miraculouſly anſwering our ſighs, tears and prayers: So alſo to preſent unto you our cordial owning and rejoycing in this ſpecial Provi<g ref="char:EOLhyphen"/>dence towards you and us, wherein you are recalled by God, and the Friends of this Common-wealth, and capacitated to re-aſſert the main Subſtance of the Good Old Cauſe, and effectually to Superſtruct there<g ref="char:EOLhyphen"/>upon, till the Top-ſtone of Univerſal Liberty, Free<g ref="char:EOLhyphen"/>dom, Common Juſtice and Righteouſneſs be viſibly laid, to the Glory of God, the Satisfaction of your Friends, and the Conviction of all Enemies and Gain<g ref="char:EOLhyphen"/>ſayers.</p>
+            <p>We preſume your hearts and doors will be always open, to the ſober addreſſes of your Friends, as op<g ref="char:EOLhyphen"/>portunity ſhall be offered, and therefore ſhall not in this juncture of time perplex your weighty affairs with multiplicity of particulars.</p>
+            <p>Wherefore at preſent we only pray;
+<list>
+                  <item>1. That the Militia of the ſeveral Cities and Coun<g ref="char:EOLhyphen"/>ties within this Common-wealth may be ſpeedily ſet<g ref="char:EOLhyphen"/>led
+<pb n="3" facs="tcp:61955:3"/>in the hands of ſuch who have in this time of tryal approved themſelves faithful to the Intereſt thereof.</item>
+                  <item>2. That ſuch faithfull perſons, who have been ejected out of places of Truſt, Military or Civil, or have for Conſcience ſake been neceſsitated to quit their em<g ref="char:EOLhyphen"/>ployments, may be ſpeedily invited and reſtored to their former capacities; and that none for the future may be imployed in any place, from the higheſt to the loweſt, but ſuch who have (without declenſion) manifeſted their good affection to the Common-wealth.</item>
+                  <item>3. That care may be taken that the perſons intruſted with the Legiſlative power, may not be perpetuated, but that all perſons within this Common-wealth may taſte of ſubjection, as well as rule, and in order there<g ref="char:EOLhyphen"/>unto, that in convenient time proviſion may be made for an equall diſtribution of Elections in the Repreſen<g ref="char:EOLhyphen"/>tatives of this Common-wealth, with ſuch due qualifi<g ref="char:EOLhyphen"/>cations of the Electors and Elected, as may conſiſt with the Intereſt thereof.</item>
+                  <item>4. That the Liberty of all perſons within this Com<g ref="char:EOLhyphen"/>mon-wealth may be ſo tendred, that neither their per<g ref="char:EOLhyphen"/>ſons may be impriſoned, nor their goods touched, without the breach of ſome known Law, and due pro<g ref="char:EOLhyphen"/>ſecution accordingly, and that ſuch Miniſters of Juſtice, Jaylors and others may be proceeded againſt and re<g ref="char:EOLhyphen"/>moved, who have acted contrary hereunto.</item>
+                  <item>5. That what Monies are, or ſhall be levyed upon the people for the ſervice of the Common-wealth, may not be diverted to any other purpoſe whatſoever; that the great ſumms of Money, proportions of Lands, and places of Advantages that have been granted to, or conferred upon any by the Broad Seal, or otherwiſe,
+<pb n="4" facs="tcp:61955:4"/>ſince the 20<hi rend="sup">th</hi>. of <hi>April</hi> 1653. may be taken into Conſi<g ref="char:EOLhyphen"/>deration, and that the chargeable Office and Officers of the Exchequer, (as to receipts and payments) may be reduced and regulated, as being calculated more for the Meridian of the Court, then fitted for the ſervice of the Common-wealth.</item>
+                  <item>6. That proviſion may be made, that ſuch who live peaceably in Godlineſs and Honeſty (though of dif<g ref="char:EOLhyphen"/>ferent perſwaſions in matters of Faith and Worſhip) may be equally protected and encouraged.</item>
+                  <item>7. That a Committee may be appointed to receive Propoſitions from any ſuch perſon or perſons as may be able to give light and direction in ſuch things, as may conduce unto the frame or conſtitution of a good and equall Common-wealth, or Free Eſtate.</item>
+                  <item>8. That all ſuch ſumms of Money, that ſince the 20<hi rend="sup">th</hi>. of <hi>April</hi> 1653. have been received, or borrow<g ref="char:EOLhyphen"/>ed out of the Exchequer by Privy Counſellors or others, be repayed into the Treaſury of this Common-wealth.</item>
+               </list>
+            </p>
+         </div>
+         <div type="document">
+            <pb n="5" facs="tcp:61955:4"/>
+            <opener>
+               <dateline>
+                  <date>Thurſday <hi>May</hi> 12. 1659.</date>
+               </dateline>
+            </opener>
+            <p>THe Houſe being informed that ſeveral Gentlemen were attending with a Petiti<g ref="char:EOLhyphen"/>on at the door, they were called in, and Mr. <hi>Samuel Moyer</hi> 
+               <abbr>Eſq</abbr> in behalf of them all preſented a Petition, which when the Petition<g ref="char:EOLhyphen"/>ers were withdrawn, was read, being entitu<g ref="char:EOLhyphen"/>led,
+<q>The humble Petition of many Inhabitants in and about the City of <hi>London.</hi>
+               </q>
+            </p>
+            <p>Ordered that the Petitioners be called in, and that Mr. Speaker acquaint them, <hi>That the Houſe will take the matter of the Petition into con<g ref="char:EOLhyphen"/>ſideration in due time, and that he give them thanks in the name of the Parliament, for their good and conſtant affections.</hi>
+            </p>
+            <p>And the Petitioners being again called in, Mr. Speaker returned them this anſwer.</p>
+            <q>
+               <pb n="6" facs="tcp:61955:5"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="response_to_petitioners">
+                        <opener>
+                           <salute>Gentlemen,</salute>
+                        </opener>
+                        <p>The Parliament have read your Petition, and every part of it, and do intend in due time to take the things therein mentioned into conſideration; In the mean time they have commanded me to tell you, that they do accept of your Petition, and give you thanks for your care in it, and for your good affection.</p>
+                        <closer>
+                           <signed>
+                              <hi>Jo. Phelpes,</hi> Clerk of the Parliament <hi>pro tempore.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb facs="tcp:61955:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
